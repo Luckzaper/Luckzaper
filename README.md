@@ -1,5 +1,5 @@
 # </> About Me:
- I’m currently working on iDine App with Swift and Swift UI<br>🌱 I’m currently learning Java and Swift <br>🎓Pursing Computer Science Degree At Kennesaw State University 
+🌱 I’m currently learning Java and Swift <br>🎓Pursing Computer Science Degree At Kennesaw State University 
 
 
 # 💻 Tech Stack:
