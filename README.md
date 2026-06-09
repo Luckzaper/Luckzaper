@@ -1,5 +1,5 @@
 # </> About Me:
-🌱 I’m currently learning Java and Swift <br>🎓Pursing Computer Science Degree At Kennesaw State University 
+🌱 I’m currently learning Java <br>🎓Pursing Computer Science Degree At Kennesaw State University 
 
 
 # 💻 Tech Stack:
